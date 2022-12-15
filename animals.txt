@@ -1,0 +1,6 @@
+Dog
+Cat
+Fish
+Sheep
+Cow
+Bull
