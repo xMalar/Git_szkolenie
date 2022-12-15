@@ -4,3 +4,5 @@ Fish
 Sheep
 Cow
 Bull
+Wolf
+Moose
