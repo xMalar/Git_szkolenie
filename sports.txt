@@ -1,3 +1,6 @@
 Football
 Baseball
 Chess
+Volleyball
+Formula 1
+Tennis
