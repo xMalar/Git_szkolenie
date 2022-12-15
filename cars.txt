@@ -5,3 +5,5 @@ Ferrari
 Opel
 Mazda
 Kia
+Subaru
+Peugeot
