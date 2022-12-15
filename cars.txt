@@ -2,3 +2,6 @@ Lamborgini
 Polonez
 Maluch
 Ferrari
+Opel
+Mazda
+Kia
