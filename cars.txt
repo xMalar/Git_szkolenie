@@ -6,4 +6,3 @@ Opel
 Mazda
 Kia
 Subaru
-Peugeot
